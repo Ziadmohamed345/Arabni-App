@@ -36,8 +36,6 @@ I served as **Project Leader & Tech Team Lead** 👨‍💻. My responsibilities
 ---
 ## Tech Stack 
 
-_These are suggested placeholders — replace with actual tools used._
-
 - Backend: Python / Jupyter  
 - Database: Firebase  
 - Frontend: Flutter 
