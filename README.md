@@ -1,41 +1,46 @@
-# Arabni
+# 🚍 Arabni
 
-## Overview
+## 📌 Overview
 
-Arabni is a data-driven transportation startup aimed at improving public transit systems in Cairo. The goal of the project is to leverage authorized transportation data, collected from official sources, to build tools or analytics that support better decision-making in the public transit space.  
+Arabni is a data-driven transportation startup aimed at improving public transit systems in Cairo. The goal of the project is to leverage **authorized transportation data** 📊, collected from official sources, to build tools and analytics that support better decision-making in the public transit space.  
 
-I served as Project Leader and Tech Team Lead. My responsibilities included coordinating the tech team, managing data collection, representing the startup in competitions and pitching, and engaging with governmental stakeholders including the Ministry of Transportation and the Cairo Transportation Authority.
-
----
-
-## Project Features
-
-- **Authorized Data Collection** — We secured data from government entities, including the Cairo Transportation Authority and the Ministry of Transportation, to ensure accuracy and legitimacy.
-
-- **Analysis & Insights** — Using the collected transit data, we created analytical dashboards or reports (e.g. ridership patterns, route efficiency, congestion metrics) to uncover actionable insights.
-
-- **Stakeholder Engagement & Impact** — Met with key governmental institutions to validate the data sources and align project goals with real transportation policy and operations.
-
-- **Startup Competition Representation** — Pitched Arabni in startup competitions, showcasing the solution, its impact, and its scalability.
+I served as **Project Leader & Tech Team Lead** 👨‍💻. My responsibilities included coordinating the tech team, managing data collection, pitching the startup in competitions 🏆, and engaging with governmental stakeholders including the **Ministry of Transportation** and the **Cairo Transportation Authority (CTA)** 🏛️.
 
 ---
 
-## Role & Contributions
+## ✨ Achievements
+
+- 🏆 **16th Place out of 130 Teams** at the **Tatweer Misr Startup Competition** for pitching Arabni.  
+- 🤝 Collaborated with the Ministry of Transportation and Cairo Transportation Authority to collect and validate official data.  
+- 🚀 Recognized for impact and scalability during startup events.  
+
+---
+
+## ✨ Project Features
+
+- 📑 **Authorized Data Collection** — Data collected from official governmental sources for accuracy and reliability.  
+- 📊 **Analysis & Insights** — Visualization of ridership patterns, route efficiency, and congestion metrics.  
+- 🤝 **Stakeholder Engagement** — Meetings with the Ministry of Transportation and CTA for validation and alignment.  
+- 🏆 **Startup Competition Pitching** — Represented Arabni in competitions, highlighting impact and scalability.  
+
+---
+
+## 👥 Role & Contributions
 
 | Role | Responsibilities |
 |---|---|
-| Project Leader & Tech Team Manager | Led tech team planning, task allocation, oversight |
-| Data Collector & Liaison | Negotiated with authorities, collected authorized datasets |
-| Presenter & Advocate | Represented the project in competitions and meetings with the Ministry and CTA |
+| 🧑‍💼 Project Leader & Tech Team Manager | Led planning, task allocation, and oversight of the tech team |
+| 📊 Data Collector & Liaison | Negotiated with authorities and collected authorized datasets |
+| 🎤 Presenter & Advocate | Represented Arabni in startup competitions and government meetings |
 
 ---
-
 ## Tech Stack 
 
 _These are suggested placeholders — replace with actual tools used._
 
 - Backend: Python / Jupyter  
-- Database: Firebase / MongoDB  
-- Frontend: Flutter / Vue.js  
-- Data Analysis: LLM   
+- Database: Firebase  
+- Frontend: Flutter 
+- Data Analysis: LLM
+- Team Collaboration: Githb / Jira / Slack   
 
